@@ -1,0 +1,30 @@
+.divA {
+    background-color: rgb(115, 10, 40);
+    width: 400px;
+    height: 400px;
+}
+
+.divB {
+    background-color: #666666;
+    width: 200px;
+    height: 200px;
+}
+
+.pC {
+    background-color: #000000;
+    color: red;
+    font-size: 50px;
+    height: 30vh;
+}
+
+.divD {
+    background-color: rgb(10, 150, 150);
+    width: 30vw;
+    height: 25vh;
+}
+
+.divE {
+    background-color: #6F9486;
+    width: 50px;
+    height: 30px;
+}
